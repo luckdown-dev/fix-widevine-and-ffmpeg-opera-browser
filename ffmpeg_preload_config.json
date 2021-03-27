@@ -1,0 +1,6 @@
+[
+  "../../../../chromium-ffmpeg/libffmpeg.so",
+  "/usr/lib/chromium-browser/libffmpeg.so",
+  "/usr/lib/chromium-browser/libs/libffmpeg.so",
+  "/snap/chromium-ffmpeg/current/chromium-ffmpeg-95241/chromium-ffmpeg/libffmpeg.so"
+]
